@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>11.0</LangVersion>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Copyright>Copyright (c) GLHays</Copyright>
+    <Description>
+      CleanParser is a dot net library to help engineers to parse values and validate for use
+      in C# without having to use a full blown parser utility or any other technology.
+    </Description>
+    <Authors>GLHays</Authors>
+    <PackageIcon>CleanParser.png</PackageIcon>
+    <RepositoryUrl>https://github.com/glhays/CleanParser</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Parse Parsing Sql</PackageTags>
+    <PackageReleaseNotes>
+     CleanParser for parsing string values for harmful content based on Token keywords.
+     Currently in Beta POC
+    </PackageReleaseNotes>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <AssemblyVersion>0.0.1</AssemblyVersion>
+    <FileVersion>0.0.1</FileVersion>
+    <Version>0.0.1</Version>
+    <PackageLicenseFile>License.txt</PackageLicenseFile>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/glhays/CleanParser</PackageProjectUrl>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <Folder Include="Brokers\" />
+    <Folder Include="Clients\" />
+    <Folder Include="Models\" />
+    <Folder Include="Resources\Images\" />
+    <Folder Include="Services\Foundations\" />
+  </ItemGroup>
+
+</Project>
