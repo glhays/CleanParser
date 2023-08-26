@@ -54,7 +54,7 @@ namespace CleanParser.Infrastructure.Build
 
                                 TargetDotNetVersion = new TargetDotNetVersion
                                 {
-                                    DotNetVersion = "7.0.10"
+                                    DotNetVersion = "7.0.307"
                                 }
                             },
 
