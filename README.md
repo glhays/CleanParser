@@ -1,6 +1,6 @@
 # CleanParser
 
-![CleanParser](https://raw.githubusercontent.com/glhays/CleanParser/master/CleanParser/resources/images/cleanparser_gitlogo.png)
+![CleanParser](https://raw.githubusercontent.com/glhays/CleanParser/main/CleanParser/Resources/Images/cleanparser_gitlogo.png)
 
 [![CleanParser Build](https://github.com/glhays/CleanParser/actions/workflows/dotnet.yml/badge.svg)](https://github.com/hassanhabib/InternTrack.Web/actions/workflows/dotnet.yml)
 [![The Standard - COMPLIANT](https://img.shields.io/badge/The_Standard-COMPLIANT-2ea44f?style=default)](https://github.com/hassanhabib/The-Standard)
