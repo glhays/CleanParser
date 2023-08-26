@@ -1,8 +1,6 @@
-﻿// ---------------------------------------------------------------
-// Copyright (c) Gregory Hays All rights reserved.
-// Licensed under the BSD 3-Clause License.
-// See License.txt in the project root for license information.
-// ---------------------------------------------------------------
+﻿// ---------------------------------------------------------------------------------------------
+// Copyright (c) The Standard Organization: A coalition of the Good-Hearted Engineers
+// ---------------------------------------------------------------------------------------------
 
 using System.Collections.Generic;
 using ADotNet.Clients;
