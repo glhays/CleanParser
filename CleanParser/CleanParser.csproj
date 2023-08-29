@@ -40,6 +40,7 @@
   
   <ItemGroup>
     <PackageReference Include="Dapper" Version="2.0.151" />
+    <PackageReference Include="Microsoft.SqlServer.DacFx.x64" Version="150.5282.3" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
   </ItemGroup>
 
