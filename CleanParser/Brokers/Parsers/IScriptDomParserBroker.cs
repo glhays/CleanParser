@@ -9,7 +9,7 @@ using Microsoft.SqlServer.TransactSql.ScriptDom;
 
 namespace CleanParser.Brokers.Parsers
 {
-    public interface IScriptDomParser
+    public interface IScriptDomParserBroker
     {
         string ParseQuery(string queryText, out IList<ParseError> parseErrors);
     }
