@@ -35,7 +35,7 @@
   <ItemGroup>
     <Folder Include="Clients\" />
     <Folder Include="Resources\Images\" />
-    <Folder Include="Services\Foundations\" />
+    <Folder Include="Services\" />
   </ItemGroup>
   
   <ItemGroup>

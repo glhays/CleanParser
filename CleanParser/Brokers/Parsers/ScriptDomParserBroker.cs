@@ -8,11 +8,11 @@ using Microsoft.SqlServer.TransactSql.ScriptDom;
 
 namespace CleanParser.Brokers.Parsers
 {
-    public class ScriptDomParser : IScriptDomParser
+    public class ScriptDomParserBroker : IScriptDomParserBroker
     {
         private readonly TSql150Parser parser;
 
-        public ScriptDomParser() => 
+        public ScriptDomParserBroker() => 
             this.parser = new TSql150Parser(false);
         
         public string ParseQuery(string queryText, out IList<ParseError> parseErrors)
