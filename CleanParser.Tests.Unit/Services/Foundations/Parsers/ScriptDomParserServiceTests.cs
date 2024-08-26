@@ -22,5 +22,8 @@ namespace CleanParser.Tests.Unit.Services.Foundations.Parsers
 
         private static string GetRandomQueryString() =>
             new MnemonicString().GetValue();
+
+        private static string GetRandomDomParsedQuery() =>
+            new MnemonicString().GetValue();
     }
 }
